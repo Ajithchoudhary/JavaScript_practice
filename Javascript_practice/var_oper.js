@@ -31,7 +31,7 @@ console.log("6==>  "+q);  //print as 35
 
 //7 Output?
 const r = 7;
-console.log(+r + 3);  // it is possible, Here we are not changing the value of constant , so print as 10 
+console.log(r + 3);  // it is possible, Here we are not changing the value of constant , so print as 10 
 
 //8 Fill correct keyword:
 let a1 = 10;  
@@ -50,7 +50,7 @@ console.warn();
 console.error();
 
 //12 What does this do?
-console.clear(); //It clears the console...
+// console.clear(); //It clears the console...
 
 
 
@@ -78,7 +78,7 @@ console.log(typeof null);
 
 //18 Convert string to number: "25"
 let num ="25";
-console.log("19==>  "+Number("25"));
+console.log("18==>  "+Number("25"));
 
 
 
@@ -92,7 +92,7 @@ console.log("20==>  "+arr1[1]);  //b
 
 //21 Output?
 let arr2 = ["x","y","z"];
-console.log(arr2["21==>  "+arr2.length-1]); 
+console.log("21==>  "+arr2[arr2.length-1]); 
 
 //22 How to get first element?
 console.log("22==> "+arr2[0]); 
