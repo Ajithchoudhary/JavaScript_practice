@@ -183,3 +183,7 @@ console.log(true && false || true); //true
 //🟢 Section 9: Ternary (40)
 // 40 Output?
 5 > 3 ? console.log("Yes") : console.log("No");  // Yes
+
+
+
+console.clear()

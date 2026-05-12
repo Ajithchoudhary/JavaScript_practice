@@ -171,3 +171,6 @@ if (hour >= 1 && hour <= 12) {
 NaN
 true
 1
+
+
+console.clear();
